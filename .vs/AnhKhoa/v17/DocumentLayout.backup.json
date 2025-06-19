@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\AnhKhoa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F791BBE6-DF29-84C3-80EE-4E3F1E0E4C32}|Assembly-CSharp.csproj|C:\\Users\\ACER\\AnhKhoa\\assets\\sprites\\player_anhkhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F791BBE6-DF29-84C3-80EE-4E3F1E0E4C32}|Assembly-CSharp.csproj|solutionrelative:assets\\sprites\\player_anhkhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F791BBE6-DF29-84C3-80EE-4E3F1E0E4C32}|Assembly-CSharp.csproj|C:\\Users\\ACER\\AnhKhoa\\assets\\trufle_anhkhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F791BBE6-DF29-84C3-80EE-4E3F1E0E4C32}|Assembly-CSharp.csproj|solutionrelative:assets\\trufle_anhkhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F791BBE6-DF29-84C3-80EE-4E3F1E0E4C32}|Assembly-CSharp.csproj|C:\\Users\\ACER\\AnhKhoa\\assets\\mysterybox_anhkhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F791BBE6-DF29-84C3-80EE-4E3F1E0E4C32}|Assembly-CSharp.csproj|solutionrelative:assets\\mysterybox_anhkhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F791BBE6-DF29-84C3-80EE-4E3F1E0E4C32}|Assembly-CSharp.csproj|c:\\users\\acer\\anhkhoa\\assets\\prefabs\\collect_anhkhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F791BBE6-DF29-84C3-80EE-4E3F1E0E4C32}|Assembly-CSharp.csproj|solutionrelative:assets\\prefabs\\collect_anhkhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F791BBE6-DF29-84C3-80EE-4E3F1E0E4C32}|Assembly-CSharp.csproj|C:\\Users\\ACER\\AnhKhoa\\assets\\prefabs\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F791BBE6-DF29-84C3-80EE-4E3F1E0E4C32}|Assembly-CSharp.csproj|solutionrelative:assets\\prefabs\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F791BBE6-DF29-84C3-80EE-4E3F1E0E4C32}|Assembly-CSharp.csproj|c:\\users\\acer\\anhkhoa\\assets\\prefabs\\anhkhoascore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F791BBE6-DF29-84C3-80EE-4E3F1E0E4C32}|Assembly-CSharp.csproj|solutionrelative:assets\\prefabs\\anhkhoascore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Coin.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\AnhKhoa\\Assets\\prefabs\\Coin.cs",
+              "RelativeDocumentMoniker": "Assets\\prefabs\\Coin.cs",
+              "ToolTip": "C:\\Users\\ACER\\AnhKhoa\\Assets\\prefabs\\Coin.cs",
+              "RelativeToolTip": "Assets\\prefabs\\Coin.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T07:17:36.655Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "anhkhoascore.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\AnhKhoa\\Assets\\prefabs\\anhkhoascore.cs",
+              "RelativeDocumentMoniker": "Assets\\prefabs\\anhkhoascore.cs",
+              "ToolTip": "C:\\Users\\ACER\\AnhKhoa\\Assets\\prefabs\\anhkhoascore.cs",
+              "RelativeToolTip": "Assets\\prefabs\\anhkhoascore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T07:34:02.292Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "collect_anhkhoa.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\AnhKhoa\\Assets\\prefabs\\collect_anhkhoa.cs",
+              "RelativeDocumentMoniker": "Assets\\prefabs\\collect_anhkhoa.cs",
+              "ToolTip": "C:\\Users\\ACER\\AnhKhoa\\Assets\\prefabs\\collect_anhkhoa.cs",
+              "RelativeToolTip": "Assets\\prefabs\\collect_anhkhoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T07:52:21.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MysteryBox_anhkhoa.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\AnhKhoa\\Assets\\MysteryBox_anhkhoa.cs",
+              "RelativeDocumentMoniker": "Assets\\MysteryBox_anhkhoa.cs",
+              "ToolTip": "C:\\Users\\ACER\\AnhKhoa\\Assets\\MysteryBox_anhkhoa.cs",
+              "RelativeToolTip": "Assets\\MysteryBox_anhkhoa.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T06:49:30.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Trufle_anhkhoa.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\AnhKhoa\\Assets\\Trufle_anhkhoa.cs",
+              "RelativeDocumentMoniker": "Assets\\Trufle_anhkhoa.cs",
+              "ToolTip": "C:\\Users\\ACER\\AnhKhoa\\Assets\\Trufle_anhkhoa.cs",
+              "RelativeToolTip": "Assets\\Trufle_anhkhoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T06:31:03.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player_anhkhoa.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\AnhKhoa\\Assets\\Sprites\\Player_anhkhoa.cs",
+              "RelativeDocumentMoniker": "Assets\\Sprites\\Player_anhkhoa.cs",
+              "ToolTip": "C:\\Users\\ACER\\AnhKhoa\\Assets\\Sprites\\Player_anhkhoa.cs",
+              "RelativeToolTip": "Assets\\Sprites\\Player_anhkhoa.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwF0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T05:49:05.534Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
